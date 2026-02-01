@@ -1,4 +1,4 @@
-# Small-Java-Project
+# Java-Project
 This repository contains a collection of small to medium-level Java projects developed to strengthen core Java concepts such as Object-Oriented Programming (OOP), file handling, and data structures.
 
 Each project is organized in a separate folder and focuses on solving a specific real-world problem using Java. These projects were developed as part of academic practice and self-learning.
